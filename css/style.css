@@ -7245,6 +7245,7 @@ ol.comment-list li.comment .comment-respond .comment-form p {
 	width:auto; 
 	height:auto; 
 	vertical-align:middle;
+	padding:15px;
 }
 .logo-header span,
 .logo-footer span { 
@@ -7584,6 +7585,7 @@ ol.comment-list li.comment .comment-respond .comment-form p {
 	font-weight:400;
 	position:relative;
 	text-transform:uppercase;
+	margin-top: 5px;
 }
 .header-nav .nav > li > a {
 	border-radius: 0;
